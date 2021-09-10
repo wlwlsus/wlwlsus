@@ -1,4 +1,4 @@
-- Interested in Android, Python, and Spring
+- Interested in Kotlin, Android and Springboot
 <!--
 **wlwlsus/wlwlsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

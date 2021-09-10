@@ -1,5 +1,3 @@
-### Web, App Developer 🌱
-
 - Interested in Android, Python, and Spring
 <!--
 **wlwlsus/wlwlsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- Interested in Kotlin, Android and Spring boot
+<!-- - Interested in Kotlin, Android and Spring boot
 <!--
 **wlwlsus/wlwlsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlwlsus)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlwlsus&count_bg=%23B0B09E&title_bg=%238C84E1&icon=windows.svg&icon_color=%232F1313&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+ -->

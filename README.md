@@ -1,25 +1,30 @@
-- Interested in Kotlin, Android and Spring boot
-<!--
-**wlwlsus/wlwlsus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<a href="https://dontstopcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B77?&logoColor=white"/></a>
+<a href="mailto:dontsc0814@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dontsc0814@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ 
+## About me
+</p>
 
-Here are some ideas to get you started:
+<p>
+ Hi! I'm an mobile app and android kiosk app developer using Android <br/>
+Sometimes I'm studying spring boots 😋
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-### Repository
+## Skills
 
-- :cloud:EMG Sensor Dataset - Machine Learning Application 
-- :sunny:Spring Back-end Development
-- :snowflake:Android Applications Using Android Studios
-- :cyclone:My Web Page via GitHub
-<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wlwlsus)](https://github.com/anuraghazra/github-readme-stats)-->
+#### Platforms
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlwlsus&count_bg=%23B0B09E&title_bg=%238C84E1&icon=windows.svg&icon_color=%232F1313&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
- -->
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
+
+#### Studying
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
+</p>

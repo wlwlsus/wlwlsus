@@ -7,7 +7,7 @@
 
 <p>
  Hi! I'm mobile app and android kiosk app developer using Android <br/>
-Sometimes I'm studying spring boots 😋
+Sometimes I'm studying spring boot 😋
 </p>
 
 

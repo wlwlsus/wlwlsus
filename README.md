@@ -6,7 +6,7 @@
 </p>
 
 <p>
- Hi! I'm mobile app and android kiosk app developer using Android <br/>
+ Hi! I'm mobile app and android kiosk app developer using Kotlin Android <br/>
 Sometimes I'm studying spring boot 😋
 </p>
 

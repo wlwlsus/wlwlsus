@@ -1,8 +1,10 @@
 <p>
 <a href="https://dontstopcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B77?&logoColor=white"/></a>
 <a href="mailto:dontsc0814@gmail.com" target="_blank"><img src="https://img.shields.io/badge/dontsc0814@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@donsco" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
  
-## About me
+ ## About me
 </p>
 
 <p>

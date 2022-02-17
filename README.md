@@ -8,8 +8,7 @@
 </p>
 
 <p>
- Hi! I'm mobile app and android kiosk app developer using Kotlin Android <br/>
-Sometimes I'm studying spring boot 😋
+안녕하세요. 😋
 </p>
 
 

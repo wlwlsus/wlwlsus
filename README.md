@@ -32,9 +32,9 @@
  
  ### Contact
  <p>
- <a href="https://velog.io/@donsco" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+ <a href="https://velog.io/@donsco" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white"/></a>
  <a href="https://dontstopcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B77?&logoColor=white"/></a>
- <a href="mailto:cadqe13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ <a href="mailto:cadqe13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/></a>
  </p>
 </div>
 

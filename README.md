@@ -1,31 +1,44 @@
-<p>
-<a href="https://velog.io/@donsco" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://dontstopcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B77?&logoColor=white"/></a>
-<a href="mailto:cadqe13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cadqe13@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20:D&fontSize=50&fontColor=ffffff&fontAlign=80)
 
+
+<div align="center">
  
- ## About me
-</p>
+   ### Platforms
+ <p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=jQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
+ </p>
+</div>
 
-<p>
-반갑습니다! 😋
-</p>
+
+<div align="center">
+ 
+ ### Languages
+ <p>
+   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+ </p>
+</div>
 
 
-## Skills
 
-#### Platforms
 
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<div align="center">
+ 
+ ### Contact
+ <p>
+ <a href="https://velog.io/@donsco" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+ <a href="https://dontstopcoding.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-DD0B77?&logoColor=white"/></a>
+ <a href="mailto:cadqe13@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+ </p>
+</div>
 
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-</p>
-
-#### Studying
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=jQuery&logoColor=white" />
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" />
-</p>
+<div align="center">
+ 
+  ### Algorithm
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwlsus)](https://solved.ac/wlwlsus/)
+</div>

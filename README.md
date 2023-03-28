@@ -1,5 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20:D&fontSize=50&fontColor=ffffff&fontAlign=80)
 
+<div align="center">
+ 
+   ### History
+ <p>
+  
+    삼성 청년 SW 아카데미 8기 2022.07 ~ 2023.07 (진행 중)
+    Kotlin 기반 키오스크 Android 애플리케이션 개발 및 운영 2021.03 ~ 2022.02
+ 
+ </p>
+</div>
+
 
 <div align="center">
  

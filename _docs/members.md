@@ -1,1 +1,6 @@
-members!
+---
+layout: page
+title: Members
+---
+
+Heloo :)

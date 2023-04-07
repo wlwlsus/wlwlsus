@@ -1,18 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20:D&fontSize=50&fontColor=ffffff&fontAlign=80)
+<!--  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20there%20:D&fontSize=50&fontColor=ffffff&fontAlign=80) -->
 
-<div align="center">
+<div>
  
    ### History
- <p>
-  
-    삼성 청년 SW 아카데미 8기 2022.07 ~ 2023.07 (진행 중)
-    Kotlin 기반 키오스크 Android 애플리케이션 개발 및 운영 2021.03 ~ 2022.02
+- 삼성 청년 SW 아카데미 8기 2학기, 특화 프로젝트 2023.02.27 ~ 2023.04.07
+- 삼성 청년 SW 아카데미 8기 2학기, 공통 프로젝트 2023.01.03 ~ 2023.02.12
+- 삼성 청년 SW 아카데미 8기 1학기, 관통 프로젝트 2022.07 ~ 2022.12
+- Kotlin 기반 키오스크 Android 애플리케이션 개발 및 운영 2021.03 ~ 2022.02
  
- </p>
 </div>
 
 
-<div align="center">
+<div>
  
    ### Platforms
  <p>
@@ -25,7 +24,7 @@
 </div>
 
 
-<div align="center">
+<div>
  
  ### Languages
  <p>
@@ -39,7 +38,7 @@
 
 
 
-<div align="center">
+<div>
  
  ### Contact
  <p>
@@ -49,7 +48,7 @@
  </p>
 </div>
 
-<div align="center">
+<div>
  
   ### Algorithm
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlwlsus)](https://solved.ac/wlwlsus/)

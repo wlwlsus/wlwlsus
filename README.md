@@ -11,6 +11,9 @@
  
    ### Platforms
  <p>
+  <img src="https://img.shields.io/badge/Kubernetes-3AAC89?style=flat&logo=k8s&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-3AAC89?style=flat&logo=k8s&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-3AAC89?style=flat&logo=k8s&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=jQuery&logoColor=white" />
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">

@@ -27,10 +27,10 @@
  
  ### Languages
  <p>
-   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
    <img src="https://img.shields.io/badge/Python-007396?style=flat&logo=Python&logoColor=white"/>
    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=Kotlin&logoColor=white"/> 
  </p>
 </div>
 

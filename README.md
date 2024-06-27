@@ -1,14 +1,5 @@
 <div>
  
-   ### History
-- 삼성 청년 SW 아카데미 8기 : 2022.07 ~ 2023.06
-- Kotlin 기반 안드로이드 키오스크 앱 개발 및 운영 2020.09 ~ 2022.02
- 
-</div>
-
-
-<div>
- 
    ### Platforms
  <p>
   <img src="https://img.shields.io/badge/Kubernetes-3AAC89?style=flat&logo=k8s&logoColor=white"/>

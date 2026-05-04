@@ -1,4 +1,4 @@
-Good bye, BOJ!
+
 
 
 <div>
